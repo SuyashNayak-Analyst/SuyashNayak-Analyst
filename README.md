@@ -12,7 +12,7 @@
 
 I enjoy transforming raw data into meaningful business insights and working on real-world problem statements like customer churn, revenue growth, and risk analysis.
 
-## 🔹 SQL Data Analyst Projects ⭐ (Featured)
+## 🔹 SQL Data Analyst Projects ⭐ 
 ### 🛒 E-Commerce Sales & Customer Analysis (SQL)
 
 Analyzed customer and order data to identify city-wise revenue trends
