@@ -19,10 +19,11 @@ I enjoy transforming **raw data into meaningful business insights** and solving 
 ## 🔹 SQL Data Analyst Projects ⭐ (Featured)
 
 ### 🛒 Ecommerce Shipping (SQL)
-- ** Measure on-time vs late delivery performance
-- ** Identify high-risk deliveries
-- ** Analyze shipment mode and warehouse efficiency
-- ** Understand customer experience impact
+-  Measure on-time vs late delivery performance
+-  Identify high-risk deliveries
+-  Analyze shipment mode and warehouse efficiency
+-  Understand customer experience impact
+
 🔗 [View Project](https://github.com/SuyashNayak-Analyst/ecommerce-shipping-analysis-sql)
 
 ---
