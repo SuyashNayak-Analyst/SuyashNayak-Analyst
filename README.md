@@ -18,13 +18,12 @@ I enjoy transforming **raw data into meaningful business insights** and solving 
 
 ## 🔹 SQL Data Analyst Projects ⭐ (Featured)
 
-### 🛒 E-Commerce Sales & Customer Analysis (SQL)
-- **Revenue Analysis:** City-wise revenue & order contribution
-- **Customer Segmentation:** High / Medium / Low value customers
-- **Churn Risk:** Based on inactivity (last order date)
-- **Advanced SQL:** JOINs, GROUP BY, HAVING, CASE WHEN, Subqueries, Window Functions
-
-🔗 [View Project](https://github.com/SuyashNayak-Analyst)
+### 🛒 Ecommerce Shipping (SQL)
+- ** Measure on-time vs late delivery performance
+- ** Identify high-risk deliveries
+- ** Analyze shipment mode and warehouse efficiency
+- ** Understand customer experience impact
+🔗 [View Project](https://github.com/SuyashNayak-Analyst/ecommerce-shipping-analysis-sql)
 
 ---
 
