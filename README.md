@@ -102,10 +102,14 @@ I enjoy transforming **raw data into meaningful business insights** and solving 
 
 ---
 
-## 📫 Connect with Me
+> 💡 *Open to freelance analytics projects and entry-level data analyst opportunities.*
 
-🔗 **LinkedIn:** *[Suyash Nayak](https://www.linkedin.com/in/suyash-nayak-4a1976384/)*  
+## 📬 Contact
+**Suyash Nayak**  
+📍 India  
 📧 **Email:** suyashnayak11@gmail.com  
+🔗 **LinkedIn:** *[Suyash Nayak](https://www.linkedin.com/in/suyash-nayak-4a1976384/)*  
+🌐 **GitHub:** https://github.com/SuyashNayak-Analyst
 
 ---
 
