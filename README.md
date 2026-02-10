@@ -18,6 +18,15 @@ I enjoy transforming **raw data into meaningful business insights** and solving 
 
 ## 🔹 SQL Data Analyst Projects ⭐ (Featured)
 
+### 📊 Marketing Campaign Performance Analysis (SQL)
+- Analyzed end-to-end marketing funnel performance across 300+ campaigns using SQL
+- Calculated key KPIs including ROI, CPC, CPL, CPO, and conversion rates
+- Identified top-performing and loss-making campaigns through ROI ranking
+- Performed time-based analysis to uncover daily performance trends and inefficiencies
+- Translated raw marketing data into actionable business insights for optimization
+  
+🔗 [View Project](https://github.com/SuyashNayak-Analyst/Marketing-Campaign-Performance-ROI-Analysis-SQL-)
+
 ### 🛒 Ecommerce Shipping Analysis (SQL)
 -  Measure on-time vs late delivery performance
 -  Identify high-risk deliveries
