@@ -37,26 +37,6 @@ I enjoy transforming **raw data into meaningful business insights** and solving 
 
 ---
 
-### 💳 Banking Loan Risk Analysis (SQL)
-- Calculated **total approved loan amount per customer**
-- Classified customers into **High / Medium / Low Risk**
-- Used **CASE WHEN, COALESCE, Aggregations**
-- Built **risk-focused analytical reports**
-
-🔗 [View Project](https://github.com/SuyashNayak-Analyst)
-
----
-
-### 🔄 Customer Retention & Churn Analysis (SQL)
-- Identified **inactive customers using last order date**
-- Created **churn risk buckets** using business logic
-- Used **Subqueries & HAVING clause**
-- Focused on **customer retention strategy**
-
-🔗 [View Project](https://github.com/SuyashNayak-Analyst)
-
----
-
 ## 🔹 Python Data Analysis Projects
 
 ### 🛒 Zara Sales Data Analysis
