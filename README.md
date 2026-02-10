@@ -39,15 +39,6 @@ I enjoy transforming **raw data into meaningful business insights** and solving 
 
 ## 🔹 Python Data Analysis Projects
 
-### 🛒 Zara Sales Data Analysis
-- Cleaned and analyzed Zara sales dataset using **Python, Pandas & NumPy**
-- Identified **best-selling categories & buying patterns**
-- Exported analytical reports in **Excel format**
-
-🔗 [View Project](https://github.com/SuyashNayak-Analyst)
-
----
-
 ### 🚕 Ride Booking Data Analysis
 - Analyzed ride booking dataset (status, cancellations, timings)
 - Used **groupby & datetime functions**
