@@ -97,7 +97,7 @@ I enjoy transforming **raw data into meaningful business insights** and solving 
 **Suyash Nayak**  
 📍 India  
 📧 **Email:** suyashnayak11@gmail.com  
-🔗 **LinkedIn:** *[Suyash Nayak](https://www.linkedin.com/in/suyash-nayak-4a1976384/)*  
+🔗 **LinkedIn:** *[Suyash Nayak](https://www.linkedin.com/in/suyash-nayak-ji/)*  
 🌐 **GitHub:** https://github.com/SuyashNayak-Analyst
 
 ---
